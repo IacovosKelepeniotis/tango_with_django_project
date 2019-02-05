@@ -27,6 +27,8 @@ SECRET_KEY = 'nr@)6phw5df7tjnbm_6181m8#6yih^s%4+5#rkkik0p(e+%kjb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+LOGIN_URL = '/rango/login/'
+
 ALLOWED_HOSTS = []
 
 # Application definition
